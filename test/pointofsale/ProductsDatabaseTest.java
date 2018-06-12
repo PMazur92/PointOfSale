@@ -5,6 +5,8 @@
  */
 package pointofsale;
 
+import database.ProductsDatabase;
+import model.Product;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.NoSuchElementException;

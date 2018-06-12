@@ -1,4 +1,6 @@
-package pointofsale;
+package database;
+
+import model.Product;
 
 /**
  *

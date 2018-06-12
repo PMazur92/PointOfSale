@@ -1,4 +1,9 @@
-package pointofsale;
+package iodevices;
+
+
+
+import model.Receipt;
+import model.Product;
 
 /**
  *

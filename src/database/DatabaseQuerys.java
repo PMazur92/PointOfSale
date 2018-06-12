@@ -1,5 +1,6 @@
-package pointofsale;
+package database;
 
+import model.Product;
 import java.util.NoSuchElementException;
 import java.util.Set;
 

@@ -1,4 +1,4 @@
-package pointofsale;
+package model;
 
 import java.text.DecimalFormat;
 
